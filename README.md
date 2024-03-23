@@ -1,2 +1,2 @@
-# langchain-rag
+# Langchain-RAG
 Different RAG using Langchain
